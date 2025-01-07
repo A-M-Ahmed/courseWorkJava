@@ -1,0 +1,5 @@
+triathlon\com\participant.class
+triathlon\com\Main.class
+triathlon\com\EliteParticipant.class
+triathlon\com\TriathlonResults.class
+triathlon\com\BeginnerParticipant.class
