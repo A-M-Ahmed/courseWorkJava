@@ -6,6 +6,7 @@
 
 
 ## Question Two
-[Q2](./TriathlonResults/src/main/java/triathlon/com/)
+
+[Question2](./TriathlonResults/src/main/java/triathlon/com/)
 ![image](https://github.com/user-attachments/assets/2ed1e2c6-5d89-46bc-85e0-74cb705d7896)
 
