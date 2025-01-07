@@ -46,7 +46,7 @@ public class TriathlonResults {
 
     public void setSwimmingTime(int swimmingTime) {
         if (swimmingTime < 0) {
-            throw new IllegalArgumentException("Error Swimming time should not be a negative digit.");
+            throw new IllegalArgumentException("there is Error Swimming time should not be a negative digit.");
         }
         this.swimmingTime = swimmingTime;
     }
@@ -57,7 +57,7 @@ public class TriathlonResults {
 
     public void setCyclingTime(int cyclingTime) {
         if (cyclingTime < 0) {
-            throw new IllegalArgumentException("Error Cycling Time should not be a negative digit.");
+            throw new IllegalArgumentException("there is Error Cycling Time should not be a negative digit.");
         }
         this.cyclingTime = cyclingTime;
     }
@@ -68,7 +68,7 @@ public class TriathlonResults {
 
     public void setRunningTime(int runningTime) {
         if (runningTime < 0) {
-            throw new IllegalArgumentException("Error Running time should not be a negative digit.");
+            throw new IllegalArgumentException("there is Error Running time should not be a negative digit.");
         }
         this.runningTime = runningTime;
     }

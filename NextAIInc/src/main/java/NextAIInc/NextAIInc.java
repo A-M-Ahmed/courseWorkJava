@@ -12,11 +12,11 @@ public class NextAIInc {
         //checking the base pay and the work hour .
         
         if (basepay < 30000){
-            System.out.println("Error, Base pay must not be less the ugx 30000");
+            System.out.println("sorry Base pay must not be less the ugx 30000");
             return;
         }
         if(hoursworked > 72){
-            System.out.println("Error, hours worked must not exceed 72 hours per week");
+            System.out.println("sorry hours worked must not beyond 72 hours per week");
             return;
         }
         
